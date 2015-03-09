@@ -1,0 +1,4 @@
+C:\Desarrollos\PruebaServidores\Server.Entities\bin\Debug\Server.Entities.dll
+C:\Desarrollos\PruebaServidores\Server.Entities\bin\Debug\Server.Entities.pdb
+C:\Desarrollos\PruebaServidores\Server.Entities\obj\Debug\Server.Entities.dll
+C:\Desarrollos\PruebaServidores\Server.Entities\obj\Debug\Server.Entities.pdb

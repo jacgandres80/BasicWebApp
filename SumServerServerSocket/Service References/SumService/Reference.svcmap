@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9eb999dd-7eb7-4d26-b879-7bad892d06aa" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49421/ServerSumOperationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServerSumOperationService.xsd" MetadataType="Schema" ID="aba4af18-84d3-48f3-9f93-06da2eeb6691" SourceId="1" SourceUrl="http://localhost:49421/ServerSumOperationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServerSumOperationService.disco" MetadataType="Disco" ID="d0d0ad8b-a6e2-4492-90e4-23ab140d3e7b" SourceId="1" SourceUrl="http://localhost:49421/ServerSumOperationService.svc?disco" />
+    <MetadataFile FileName="ServerSumOperationService1.xsd" MetadataType="Schema" ID="6c206467-c1c3-4ac4-95d5-db5977d8d5db" SourceId="1" SourceUrl="http://localhost:49421/ServerSumOperationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServerSumOperationService.wsdl" MetadataType="Wsdl" ID="4b80235d-9886-40e9-92f8-e50e485910f2" SourceId="1" SourceUrl="http://localhost:49421/ServerSumOperationService.svc?wsdl" />
+    <MetadataFile FileName="ServerSumOperationService2.xsd" MetadataType="Schema" ID="8dd8c7e1-4619-46b0-afd8-01de1b5ebe4f" SourceId="1" SourceUrl="http://localhost:49421/ServerSumOperationService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\AppWebServerSocket.exe.config
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\AppWebServerSocket.exe
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\AppWebServerSocket.pdb
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Common.dll
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Server.Entities.dll
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Common.pdb
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Server.Entities.pdb
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\obj\Debug\AppWebServerSocket.csprojResolveAssemblyReference.cache
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\obj\Debug\AppWebServerSocket.exe
+C:\Desarrollos\PruebaServidores\AppWebServerSocket\obj\Debug\AppWebServerSocket.pdb

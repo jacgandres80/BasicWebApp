@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<script src="~/Scripts/Charts/toastr8.js"></script>
+<script src="~/Scripts/Charts/jscharts.js"></script>
+<script src="~/Scripts/Charts/ChartsOperation.js"></script>
+
+<h2>Registered Servers</h2>
+
+<div>
+    <div class="col-lg-6 col-md-6 col-sm-6">Do you want manually numbers to process?</div>
+    <div class="col-lg-6 col-md-6 col-sm-6"><input type="checkbox" id="chkAutomatic" /></div>
+    <div class="col-lg-12 col-md-12 col-sm-12 divider">.................................................................................................................................................................................................................................................................................................................</div> 
+    <div id="divContainerNumbers" class="form-group">
+        <div class="col-lg-4 col-md-4 col-sm-4">Write a Number:</div>
+        <div class="col-lg-4 col-md-4 col-sm-4"><input id="txtNumberManually" type="text" value="" class="form-control" /></div>
+        <div class="col-lg-4 col-md-4 col-sm-4"><input type="button" id="btnAddNumber" onclick="addNumber()" value="Add" class="btn btn-default" /></div> 
+        <ul id="ulNumbers">
+
+        </ul>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 divider" >.................................................................................................................................................................................................................................................................................................................</div> 
+    <div class="col-lg-12 col-md-12 col-sm-12"><input type="button" id="btnStart" onclick="StartProcess()" value="Start Process" class="btn btn-default" /></div>
+    <p id="lblRegisteredServers"></p>
+    <ul id="drpServers"></ul>
+    <div id="graph">Loading graph...</div>
+    <br />
+
+    <div class="form-group">
+        <div class="col-lg-12 col-md-12 col-sm-12" id="diResultServer"></div>
+    </div>
+</div>

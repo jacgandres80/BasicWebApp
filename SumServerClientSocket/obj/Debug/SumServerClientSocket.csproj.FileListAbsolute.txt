@@ -1,0 +1,11 @@
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\SumServerClientSocket.dll
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\SumServerClientSocket.pdb
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Common.dll
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Server.Entities.dll
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Common.pdb
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Server.Entities.pdb
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\obj\Debug\SumServerClientSocket.csprojResolveAssemblyReference.cache
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\obj\Debug\SumServerClientSocket.dll
+C:\Desarrollos\PruebaServidores\SumServerClientSocket\obj\Debug\SumServerClientSocket.pdb

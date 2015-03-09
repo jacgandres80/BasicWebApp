@@ -1,0 +1,7 @@
+C:\Desarrollos\PruebaServidores\Common\bin\Debug\Common.dll
+C:\Desarrollos\PruebaServidores\Common\bin\Debug\Common.pdb
+C:\Desarrollos\PruebaServidores\Common\bin\Debug\Server.Entities.dll
+C:\Desarrollos\PruebaServidores\Common\bin\Debug\Server.Entities.pdb
+C:\Desarrollos\PruebaServidores\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Desarrollos\PruebaServidores\Common\obj\Debug\Common.dll
+C:\Desarrollos\PruebaServidores\Common\obj\Debug\Common.pdb

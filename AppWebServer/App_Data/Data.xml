@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Register>
+    <IdRegister>1</IdRegister>
+    <DateRegister>2015-03-09T01:10:49.8229665-05:00</DateRegister>
+    <SumServerPort>20100</SumServerPort>
+    <ServerWebAppPort>10101</ServerWebAppPort>
+    <SumServerAddress>192.168.1.100</SumServerAddress>
+    <ServerAddress>192.168.1.100</ServerAddress>
+    <State>Conected</State>
+    <SumServerName>Sum Server 1</SumServerName>
+    <HostName>::1</HostName>
+    <HostUrl>http://localhost:49421/Register/DoServerRegistration</HostUrl>
+    <ActionRegister>Register</ActionRegister>
+    <ActionSumServer>Disconected</ActionSumServer>
+  </Register>
+  <Register>
+    <IdRegister>2</IdRegister>
+    <DateRegister>2015-03-09T01:52:31.079919-05:00</DateRegister>
+    <SumServerPort>20100</SumServerPort>
+    <ServerWebAppPort>10101</ServerWebAppPort>
+    <SumServerAddress>192.168.1.100</SumServerAddress>
+    <ServerAddress>192.168.1.100</ServerAddress>
+    <State>Conected</State>
+    <SumServerName>Sum Server 1</SumServerName>
+    <HostName>::1</HostName>
+    <HostUrl>http://localhost:49421/Register/DoServerRegistration</HostUrl>
+    <ActionRegister>Register</ActionRegister>
+    <ActionSumServer>Disconected</ActionSumServer>
+  </Register>
+</ArrayOfRegister>
